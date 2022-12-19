@@ -198,3 +198,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+# side바
+category_dir: category/
+tag_dir: tag/
